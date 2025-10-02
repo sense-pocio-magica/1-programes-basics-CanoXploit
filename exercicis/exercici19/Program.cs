@@ -6,6 +6,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix una paraula: ");
+        var paraula = Console.ReadLine();
+        var longitud = paraula.Length;
+        var imprimeix = paraula.Substring(0);
+
+
+        Console.WriteLine($"La longitud de la parauala és {longitud} i la paraula és {imprimeix}");
     }
 }

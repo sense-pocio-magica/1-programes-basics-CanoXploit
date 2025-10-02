@@ -7,6 +7,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Cuantos metros quieres pasar a pies? ");
+        var totalmetros = Console.ReadLine();
+        float metros = Convert.ToSingle(totalmetros);
+
+        var pies =(metros * 3.28084);
+
+        Console.WriteLine($"El valor de metros es {pies} pies ");
+
     }
 }

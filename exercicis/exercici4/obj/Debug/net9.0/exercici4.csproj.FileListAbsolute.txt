@@ -1,0 +1,15 @@
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/exercici4.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/exercici4.AssemblyInfoInputs.cache
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/exercici4.AssemblyInfo.cs
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/exercici4.csproj.CoreCompileInputs.cache
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/exercici4.sourcelink.json
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/bin/Debug/net9.0/exercici4
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/bin/Debug/net9.0/exercici4.deps.json
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/bin/Debug/net9.0/exercici4.runtimeconfig.json
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/bin/Debug/net9.0/exercici4.dll
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/bin/Debug/net9.0/exercici4.pdb
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/exercici4.dll
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/refint/exercici4.dll
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/exercici4.pdb
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/exercici4.genruntimeconfig.cache
+/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici4/obj/Debug/net9.0/ref/exercici4.dll
