@@ -14,12 +14,17 @@ class Program
     {
         Console.Write("Insereix un numero de 3 xifres: ");
         int numero = Convert.ToInt16(Console.ReadLine());
-        string numerostring = numero.ToString();
-        var numeroreves1 = numerostring[2];
-        var numeroreves2 = numerostring[1];
-        var numeroreves3 = numerostring[0];
+        // string numerostring = numero.ToString();
+        // var numeroreves1 = numerostring[2];
+        // var numeroreves2 = numerostring[1];
+        // var numeroreves3 = numerostring[0];
 
-        Console.WriteLine($"{numeroreves1}{numeroreves2}{numeroreves3}");
+        int centenes = numero / 100;
+        int unitats = numero % 10;
+        int desenes = numero % 100 / 10;
+
+        // Console.WriteLine($"{numeroreves1}{numeroreves2}{numeroreves3}");
+        Console.WriteLine($"{unitats}{desenes}{centenes}");
 
     }
 }

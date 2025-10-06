@@ -17,9 +17,9 @@ class Program
     {
         Console.Write("Introdueix un nombre real ");
         float numerolleig = Convert.ToSingle(Console.ReadLine());
-
+        
         // como quiero solo la parte entera para despues restarlo debo quitarle los decimales
-        int partentera = (int)numerolleig;
+        int partentera = (int) numerolleig;
 
         float nombremeravellos = numerolleig - partentera;
 
