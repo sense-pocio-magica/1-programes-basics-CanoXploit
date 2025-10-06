@@ -17,6 +17,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Introdueix la data sense format");
+        var data = Console.ReadLine();
+
+        var dia = data.Substring(0,2);
+        var mes = data.Substring(2,2);
+        var any = data.Substring(4);
+        Console.WriteLine($"{dia}/{mes}/{any}");
     }
 }

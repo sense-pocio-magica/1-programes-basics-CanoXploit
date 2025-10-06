@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oS/VDKpB9nQ=",
+  "dgSpecHash": "FiPtp5rBLdo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Coral Planagumà\\Desktop\\CICLES FORMATIUS\\PROJECTES\\1-Programes-basics\\exercicis\\exercici10\\exercici10.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/jose/DAW/PROGRAMACIO D485/1-programes-basics-CanoXploit/exercicis/exercici10/exercici10.csproj",
+  "expectedPackageFiles": [
+    "/home/jose/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

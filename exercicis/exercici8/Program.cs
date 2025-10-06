@@ -7,6 +7,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Cuantos minutos? ");
+        var minutos = Console.ReadLine();
+        int totalminutos = Convert.ToInt16(minutos);
+
+        int horas = (totalminutos / 60);
+
+        int minuts = totalminutos % 60 ;
+
+        Console.WriteLine($"Son {horas} horas y {minuts} minutos");
     }
 }

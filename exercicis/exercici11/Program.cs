@@ -5,6 +5,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix el teu nom d'usuari: ");
+        var nomusuari = Console.ReadLine();
+
+        Console.Write("Introdueix un domini ex:(@gmail.com) ");
+        var domini = Console.ReadLine();
+
+        Console.WriteLine($"La teva adreça de correu es: {nomusuari}{domini}");
     }
 }

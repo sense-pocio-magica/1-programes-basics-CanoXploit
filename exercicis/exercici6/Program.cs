@@ -7,6 +7,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Cuantos cm tiene un costado del cuadrado? ");
+        var cm = Console.ReadLine();
+        int cmcuadrado = Convert.ToInt16(cm);
+
+        var perimetro = (cmcuadrado * 4);
+
+        Console.WriteLine($"El perimetro del cuadrado son {perimetro} cm");
     }
 }
